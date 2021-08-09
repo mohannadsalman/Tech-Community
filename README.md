@@ -1,2 +1,2 @@
 # Tech-Community
-A project done by Tamara Adeeb , Asma Alsaada and Mohannad Salman , 
+A project done by Tamara Adeeb , Asma Alsaada and Mohannad Salman  
